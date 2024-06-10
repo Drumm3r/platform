@@ -3,7 +3,7 @@ title: Fix promotion individual code redeemer
 date: 2023-07-31
 issue: NEXT-00000
 author: Daniel Schönenborn
-author_github: Drumm3r
+author_github: @Drumm3r
 ---
 
 ## Core
